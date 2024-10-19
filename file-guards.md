@@ -1,5 +1,3 @@
-# c-basics
-This will be a dynamic repo, which will be used for whatever basic c functionalities, that I will come across
 
 
 ## How to include File Guards - Why to include Fileguards in C or C++ Header Files
